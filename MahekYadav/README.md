@@ -1,6 +1,6 @@
 # 🏋️ Gym & Fitness Club Management REST API
 
-#Live link:-
+# Live link:-
 https://itm-assignment-08-gym-api.onrender.com
 
 Backend assignment built with Node.js, Express.js, MongoDB, Mongoose, Passport.js Local Strategy and Express Session.
