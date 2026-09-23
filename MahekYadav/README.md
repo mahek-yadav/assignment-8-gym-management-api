@@ -2,6 +2,9 @@
 
 Backend assignment built with Node.js, Express.js, MongoDB, Mongoose, Passport.js Local Strategy and Express Session.
 
+# Live link:-
+https://itm-assignment-08-gym-api.onrender.com
+
 ## Features
 
 - Member registration with membership plan and automatic expiry calculation
